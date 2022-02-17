@@ -28,6 +28,3 @@ addNewBtn.addEventListener('click', () => {
 contactBtn.addEventListener('click', () => {
   contactButton();
 });
-
-const timeDisplay = document.querySelector('.time-display');
-
