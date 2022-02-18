@@ -143,6 +143,7 @@ body {
   font-family: var(--ff);
   border: 2px solid #000;
   font-size: 1em;
+  background-color: black;
 }
 
 .input + .input {
@@ -163,7 +164,7 @@ body {
   padding: 0.5em;
   margin-top: 1em;
   border: 2px solid #000;
-  background-color: #fff;
+  background-color: rgb(3, 3, 3);
   box-shadow: 3px 3px 0 0 #000;
   width: 40%;
   font-size: 0.85em;
