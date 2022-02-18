@@ -69,7 +69,7 @@ body {
 }
 
 .time-display {
-  font-size: 0.1em;
+  font-size: 30px;
   width: 90%;
   text-align: end;
   padding: 0.25em;
